@@ -1,0 +1,8 @@
+cash
+ordinary_account
+vehicles_and_equipment
+land
+buildings
+accounts payable
+capital_stock
+investments_and_stocks

@@ -1,0 +1,5 @@
+utilities_expense
+salaries
+rent_expense
+miscellaneous_expense
+comunication expen
